@@ -1,0 +1,7 @@
+{
+	"name": "myModule",
+	"version": "0.1.0",
+	"description": "test de nodeJs",
+	"main": "myModule.js",
+	"author": "Moi"
+}
