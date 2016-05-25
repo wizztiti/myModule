@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-package",
+  "name": "mmymodule",
   "version": "1.0.0",
-  "main": "myModule.js"
+  "main": "mymodule.js"
 }
