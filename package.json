@@ -1,9 +1,5 @@
 {
   "name": "my-awesome-package",
   "version": "1.0.0",
-<<<<<<< HEAD
   "main": "myModule.js"
-=======
-  "main": "muModule.js"
->>>>>>> 16e94cc8a4a50a0acc418f275a64a2c6882f9b2f
 }
